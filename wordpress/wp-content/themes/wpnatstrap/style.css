@@ -1,0 +1,25 @@
+/* 
+Theme Name: WP Natstrap 
+Theme URI:
+Description: Based on WP Bootstrap
+
+Author: Nat Duffy 
+Author URI:
+Version: 1.0 
+Tags: responsive, white, bootstrap 
+
+License:
+License URI: 
+*/
+
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap-responsive.css'); 
+
+body { 
+  padding-top: 60px; 
+  padding-bottom: 40px;
+ }
+
+
+
+
